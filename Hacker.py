@@ -27,7 +27,7 @@ async def start(event):
       [
         Button.url('𝗦𝘂𝗽𝗽𝗼𝗿𝘁', 'https://t.me/RazeFriendsZone'),
         Button.url('𝗖𝗵𝗮𝗻𝗻𝗲𝗹', 'https://t.me/Raze_Network'),
-        Button.url('𝗔𝗱𝗱 𝗠𝗲 🎃','https://t.me/CocoBoyRobot?startgroup=true')
+        Button.url('𝗔𝗱𝗱 𝗠𝗲 🎃','https://t.me/RazeTaggerBot?startgroup=true')
       ]
     )
   )
